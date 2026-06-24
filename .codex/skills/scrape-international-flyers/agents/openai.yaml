@@ -1,0 +1,3 @@
+display_name: International Flyer Scraper
+short_description: Scrape Tim Hortons offers from Mexico, Saudi Arabia, and South Korea flyer sources.
+default_prompt: Scrape current Tim Hortons offers and update the flyer tracker data.
